@@ -10,4 +10,15 @@ print(name);
 print(age);
 print(work);
 print(salary);
+
+
+//types of variables 
+var firstname = "nafe";
+firstname = "nafemma";
+print(firstname);
+
+//immutable
+final surname = 'mpofu';
+//surname = 'banda'; //error final variable cannot be changed
+print(surname);
 }
