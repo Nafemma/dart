@@ -9,7 +9,8 @@ void main(){
   int b = 7;
 
   if(a < b){
-    print("$a is smaller");}else{
+    print("$a is smaller");}
+    else{
     print("$b is smaller");}
     */
 
@@ -25,7 +26,7 @@ void main(){
 
     int bignumber = x > y ? x : y;
     print("$bignumber is bigger");
-
+/*
     //second example of conditional expressions
     //exp1 ?? exp2;
     //if exp1 is not-null, returns its value,
@@ -37,5 +38,5 @@ void main(){
     String City = "Zomba";
     String DistrictToShow = City ?? "Blantyre";
     print(DistrictToShow);
-
+*/
 }
